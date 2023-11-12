@@ -1,6 +1,6 @@
 # Berlin crime reportings data analysis and visualization project
 
-This project aims to analyze Crime Data in the **Berlin, Germanyl** from **2012 - 2019**.
+This project aims to analyze Crime Data in the **Berlin, Germany** from **2012 - 2019**.
   
 In this project I have used a dataset from Kaggle:
 > - [Kaggle dataset](https://www.kaggle.com/datasets/danilzyryanov/crime-in-berlin-2012-2019)
